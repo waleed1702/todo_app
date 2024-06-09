@@ -1,16 +1,27 @@
-# todo_app
+# Todo App
 
-A new Flutter project.
+This is a simple Todo application built with Flutter. The app allows users to manage their tasks efficiently with the ability to fetch, add, update, and delete tasks. The data is fetched from a dummy API and stored locally using shared preferences.
+
+## Features
+
+- Fetch tasks from an API and display them in a list
+- Add new tasks
+- Update task status
+- Delete tasks
+- Store tasks locally using shared preferences
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will help you set up and run the project on your local machine for development and testing purposes.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK(3.19.4): [Install Flutter](https://flutter.dev/docs/get-started/install)  
+- Android Studio or Visual Studio Code: [Install Android Studio](https://developer.android.com/studio) or [Install VS Code](https://code.visualstudio.com/Download)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/waleed1702/todo_app.git
